@@ -1,7 +1,6 @@
 
 
 $(document).ready(function () {
-    //Owl
     $('.hero-slider').owlCarousel({
         loop: true,
         margin: 0,
